@@ -1,0 +1,3 @@
+[submodule "BlueHatIL-2020"]
+	path = BlueHatIL-2020
+	url = https://github.com/FuzzySecurity/BlueHatIL-2020
