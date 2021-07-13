@@ -1,3 +1,18 @@
 [submodule "BlueHatIL-2020"]
 	path = BlueHatIL-2020
 	url = https://github.com/FuzzySecurity/BlueHatIL-2020
+[submodule "IBM-RedCON-2020"]
+	path = IBM-RedCON-2020
+	url = https://github.com/FuzzySecurity/IBM-RedCON-2020
+[submodule "BH-Arsenal-2019"]
+	path = BH-Arsenal-2019
+	url = https://github.com/FuzzySecurity/BH-Arsenal-2019
+[submodule "DefCon-Beijing-UAC"]
+	path = DefCon-Beijing-UAC
+	url = https://github.com/FuzzySecurity/DefCon-Beijing-UAC
+[submodule "DefCon25"]
+	path = DefCon25
+	url = https://github.com/FuzzySecurity/DefCon25
+[submodule "DefCon24"]
+	path = DefCon24
+	url = https://github.com/FuzzySecurity/DefCon24
