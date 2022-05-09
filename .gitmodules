@@ -16,3 +16,6 @@
 [submodule "DefCon24"]
 	path = DefCon24
 	url = https://github.com/FuzzySecurity/DefCon24
+[submodule "WWHF-WayWest-2022"]
+	path = WWHF-WayWest-2022
+	url = https://github.com/FuzzySecurity/WWHF-WayWest-2022
