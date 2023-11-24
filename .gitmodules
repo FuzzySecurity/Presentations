@@ -19,3 +19,9 @@
 [submodule "WWHF-WayWest-2022"]
 	path = WWHF-WayWest-2022
 	url = https://github.com/FuzzySecurity/WWHF-WayWest-2022
+[submodule "BHUSA-2023"]
+	path = BHUSA-2023
+	url = https://github.com/FuzzySecurity/BHUSA-2023
+[submodule "SANS-HackFest-2023"]
+	path = SANS-HackFest-2023
+	url = https://github.com/FuzzySecurity/SANS-HackFest-2023
