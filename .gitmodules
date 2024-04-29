@@ -25,3 +25,6 @@
 [submodule "SANS-HackFest-2023"]
 	path = SANS-HackFest-2023
 	url = https://github.com/FuzzySecurity/SANS-HackFest-2023
+[submodule "SAFACon-Vienna"]
+	path = SAFACon-Vienna
+	url = https://github.com/FuzzySecurity/SAFACon-Vienna
